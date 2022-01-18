@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetANT1_1 Pin=C7-1
+Removed Pin From Net: NetName=NetANT2_1 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=NetANT1_1 Pin=D2-2
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Component Designator: OldDesignator=D2 NewDesignator=ESD1
+Change Component Designator: OldDesignator=D3 NewDesignator=ESD2
+Added Component: Designator=L2(L0603)
+Added Component: Designator=L3(L0603)
+Added Pin To Net: NetName=NetANT1_1 Pin=ESD1-1
+Added Pin To Net: NetName=GND Pin=ESD1-2
+Added Pin To Net: NetName=NetANT1_1 Pin=L2-2
+Added Pin To Net: NetName=NetANT2_1 Pin=L3-1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=L2-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=L3-2
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=core Member=Component L2 1nH
+Added Member To Class: ClassName=core Member=Component L3 1nH
+Added Member To Class: ClassName=core Member=Component U2 MikroBus
