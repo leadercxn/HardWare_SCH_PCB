@@ -146,7 +146,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
+[Document9]
+DocumentPath=C:\software_install\ad9\Library\À¼¸ñ·â×°£¨181112£©.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
 [GeneratedDocument1]
+DocumentPath=..\bk9532-modules\BK5932.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=TX_BK9531.PcbDoc.htm
 DItemRevisionGUID=
 
