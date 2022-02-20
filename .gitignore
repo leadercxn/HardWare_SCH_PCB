@@ -5,3 +5,5 @@
 *.SchDocPreview
 *.Zip
 *.DS_Store
+*.LOG
+__Previews
